@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmiiFont
-- 👀 I’m interested in Typescript, GraphQL, Dart, Flutter and .NET
+- 👀 I’m interested in Typescript, GraphQL, Dart, Flutter, .NET and Python
 - 🌱 I’m currently learning Flutter
 
 
