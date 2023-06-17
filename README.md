@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmiiFont
-- 👀 I’m interested in Javascript, Typescript, C#, GraphQL, Dart, Flutter, .NET and Go
+- 👀 I’m interested in Typescript, C#, GraphQL, Flutter, .NET, Go and Rust
 
 <!---
 EmiiFont/EmiiFont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
